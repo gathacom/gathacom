@@ -1,5 +1,6 @@
-<img align="right" src="[https://visitor-badge.laobi.icu/badge?page_id=gathacom.gathacom](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fgathacom%2Fgathacom&label=Visitors&labelColor=%2303aec6&countColor=%2301294d&style=plastic&labelStyle=none)" />
-
+<!--<img align="right" src="[https://visitor-badge.laobi.icu/badge?page_id=gathacom.gathacom](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fgathacom%2Fgathacom&label=Visitors&labelColor=%2303aec6&countColor=%2301294d&style=plastic&labelStyle=none)" />
+-->
+<a align="right" href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fgathacom%2Fgathacom"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fgathacom%2Fgathacom&label=Visitors&labelColor=%2303aec6&countColor=%2301294d&style=plastic&labelStyle=none" /></a>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Rock+Salt&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hi+There!+👋;+I'm+Yoga+Agatha+Pasaribu!;" />
 </h1>
