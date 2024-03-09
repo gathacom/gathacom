@@ -1,8 +1,12 @@
 <!--<img align="right" src="[https://visitor-badge.laobi.icu/badge?page_id=gathacom.gathacom](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fgathacom%2Fgathacom&label=Visitors&labelColor=%2303aec6&countColor=%2301294d&style=plastic&labelStyle=none)" />
 -->
 <a align="right" href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fgathacom%2Fgathacom"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fgathacom%2Fgathacom&label=Visitors&labelColor=%2303aec6&countColor=%2301294d&style=plastic&labelStyle=none" /></a>
-<h1 align="center">
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=4000&pause=800&color=03AEC6&center=true&vCenter=true&random=false&width=800&lines=const+User++%3D+%7B;name+%3A+%22Yoga+Agatha+Pasaribu%22%2C;role%3A+%22Fullstack+Web+Developer%22%2C;nationality%3A+%22Indonesia%22%2C;%7D" alt="Typing SVG" /></a>
+
+<!-- <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Rock+Salt&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hi+There!+👋;+I'm+Yoga+Agatha+Pasaribu!;" />
+    -->
 </h1>
 ### Hi there 👋
 
