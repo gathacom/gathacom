@@ -1,3 +1,8 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=gathacom.gathacom" />
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Rock+Salt&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hi+There!+👋;+I'm+Yoga+Agatha+Pasaribu!;" />
+</h1>
 ### Hi there 👋
 
 <!--
