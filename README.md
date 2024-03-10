@@ -4,7 +4,9 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=4000&pause=800&color=03AEC6&center=true&vCenter=true&random=false&width=800&lines=const+User++%3D+%7B;name+%3A+%22Yoga+Agatha+Pasaribu%22%2C;role%3A+%22Fullstack+Web+Developer%22%2C;nationality%3A+%22Indonesia%22+%7D;Good+to+See+You!+%F0%9F%91%BB%F0%9F%91%BB%F0%9F%91%BB" alt="Typing SVG" /></a>
 
-<hr/>
+<h1></h1>
+<br />
+
 <!--
 **gathacom/gathacom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,5 +17,37 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **ReactJs, NodeJs, Express and ...** 
 - ⚡ Fun fact: **I've been playing games since i was 9 y.o.**
 
+  <div align="center"> 
+  <a href="mailto:yogapasaribu000@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-01294d?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-db1a1a?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
+  </a>
+    <!--
+  <a href="https://salesp07.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options --> 
+  </a>
+</div>
+
+<hr />
+
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,tailwind,vscode,github,git,figma" />
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,go,postman,redux,r,cpp,java,php,nextjs,flutter,mysql,mongodb" /><br>
+</div>
+
+<br/>
 <hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/gathacom/gathacom/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
 
