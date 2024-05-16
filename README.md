@@ -5,8 +5,9 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=4000&pause=800&color=03AEC6&center=true&vCenter=true&random=false&width=800&lines=const+User++%3D+%7B;name+%3A+%22Yoga+Agatha+Pasaribu%22%2C;role%3A+%22Fullstack+Web+Developer%22%2C;nationality%3A+%22Indonesia%22+%7D;Good+to+See+You!+%F0%9F%91%BB%F0%9F%91%BB%F0%9F%91%BB" alt="Typing SVG" /></a>
 
 <h1></h1>
--->
 <a href="https://app.daily.dev/g4tha"><img src="https://api.daily.dev/devcards/v2/Ypa7d0A5kD02lduj7SzJG.png?type=default&r=siz" width="356" alt="G4THA's Dev Card"/></a>
+-->
+<a href="https://app.daily.dev/g4tha"><img src="https://api.daily.dev/devcards/v2/Ypa7d0A5kD02lduj7SzJG.png?type=wide&r=siz" width="652" alt="G4THA's Dev Card"/></a>
 <br />
 
 <!--
