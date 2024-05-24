@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,tailwind,vscode,github,git,figma" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,go,postman,redux,r,cpp,java,php,nextjs,flutter,mysql,mongodb" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,go,postman,redux,cpp,java,php,nextjs,flutter,mysql,mongodb,postgres" /><br>
 </div>
 
 <br/>
