@@ -35,12 +35,26 @@ Here are some ideas to get you started:
 
 <hr />
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">💬 Languages 💬</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,tailwind,vscode,github,git,figma" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,go,postman,redux,cpp,php,nextjs,react-native,mysql,mongodb,postgres" /><br>
+    <img src="https://skillicons.dev/icons?i=javascript,html,css,cpp" />
 </div>
+<h2 align="center">⚒️ Framework & Others ⚒️</h2>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,react,redux,nextjs,prisma,vite,supabase" /><br>
+</div>
+<br/>
+<h2 align="center">⚒️ Tools ⚒️</h2>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=postman,vscode" />
+</div>
+<br/>
+<!-- <h2 align="center">⚒️ Languages ⚒️</h2>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=javascript,html,css,cpp,php" />
+</div> -->
+
 
 <br/>
 <hr/>
