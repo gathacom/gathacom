@@ -16,7 +16,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on **StepUp Projects**
+- 🔭 I’m currently part of **StepUp Projects**
 - 🌱 I’m currently learning **ReactJs, NodeJs, Express and ...** 
 - ⚡ Fun fact: **I've been playing games since i was 9 y.o.**
 
@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,tailwind,vscode,github,git,figma" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,go,postman,redux,cpp,java,php,nextjs,flutter,mysql,mongodb,postgres" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,go,postman,redux,cpp,php,nextjs,react-native,mysql,mongodb,postgres" /><br>
 </div>
 
 <br/>
