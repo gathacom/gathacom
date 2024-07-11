@@ -7,7 +7,9 @@
 <h1></h1>
 <a href="https://app.daily.dev/g4tha"><img src="https://api.daily.dev/devcards/v2/Ypa7d0A5kD02lduj7SzJG.png?type=default&r=siz" width="356" alt="G4THA's Dev Card"/></a>
 -->
+<div align="center"> 
 ![](https://leetcard.jacoblin.cool/gathacom?theme=dark&font=Nunito&ext=activity)
+</div>
 <a href="https://app.daily.dev/g4tha"><img src="https://api.daily.dev/devcards/v2/Ypa7d0A5kD02lduj7SzJG.png?type=wide&r=siz" width="652" alt="G4THA's Dev Card"/></a>
 <br />
 
