@@ -10,7 +10,7 @@
 
 ![](https://leetcard.jacoblin.cool/gathacom?theme=dark&font=Nunito&ext=activity&border_radius=20)
 
-<a href="https://app.daily.dev/g4tha"><img src="https://api.daily.dev/devcards/v2/Ypa7d0A5kD02lduj7SzJG.png?type=wide&r=siz" width="652" alt="G4THA's Dev Card"/></a>
+<!-- <a href="https://app.daily.dev/g4tha"><img src="https://api.daily.dev/devcards/v2/Ypa7d0A5kD02lduj7SzJG.png?type=wide&r=siz" width="652" alt="G4THA's Dev Card"/></a> -->
 <br />
 
 <!--
